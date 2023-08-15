@@ -1,14 +1,14 @@
 刷题步骤：
 
-##1.python-leetcode简单\n
+1.python-leetcode简单
 
-##2.反思
+#2.反思
 
-##3.python-leetcode中等
+3.python-leetcode中等
 
-##4.反思
+4.反思
 
 
-##5.C++简单，C++中等
+5.C++简单，C++中等
 
-##6.反思
+6.反思
