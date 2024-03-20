@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1_青蛙跳台阶.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2_将数字变成0的操作次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3_爬楼梯最小成本.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4_打家劫舍.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5_打家劫舍II（不懂）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6_单词拆分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.解码方法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8_获取生成数组中的最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10.%28未解决%29分割数组以得到最大和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.最长递增子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11.哪种连续子字符串更长.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12.寻找数组的中心下标.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13_+单词接龙%28双向光搜+单向广搜%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14_+世界冰球锦标赛(双向广度优先搜索).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15_+牛牛的背包问题(双向广度优先搜索).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16_+最接近目标值的子序列和%28双向广搜%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17.统计全为1的正方形子矩阵%28前置题%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18.粉刷房子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19.连续子数组的最大和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20.%28未解决%29最长递增子序列的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21.最长等差数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22.最长的斐波那列数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="后续.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24_+%28未解决%29矩阵快速幂.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25_+单调队列与栈优化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23_+最长上升子序列的O(nlogn)方法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26.最长公共子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27.最长回文子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28.编辑距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29.杨辉三角.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30.不同路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31.最小路径和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32.买卖股票的最佳时机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33.买卖股票的最佳时机2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34.买卖股票的最佳时机3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35.买卖股票的最佳时机4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36.买卖股票的最佳时机含冷冻期.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="37.买卖股票的最佳时机含手续费.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38_+放苹果问题，放信封问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39_+最长回文子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40_+%28未解决%29回文子序列的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="41_+%28未解决%29最优矩阵链乘法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42_+%28未解决%29区间最值查询.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="43_+编辑距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="44_+快乐聚会.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45_+!!错位排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46_+!!长度大于K的回文子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="0_动态规划思考问题的步骤.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

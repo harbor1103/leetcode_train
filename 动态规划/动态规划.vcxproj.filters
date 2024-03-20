@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="0_动态规划思考问题的步骤.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1-509.斐波那契数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2-70.爬楼梯.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3-746.使用最小花费爬楼梯.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4-62.不同路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5-63.不同路径 II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6-343.整数拆分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-96.不同的二叉搜索树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#1-错位排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#2-字符串中的最长回文子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8-01背包问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9-01背包问题-滚动数组优化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10-01背包问题-灵魂发问.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11-416.分割等和子集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12-1049.最后一块石头的重量 II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13-494. 目标和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15-完全背包.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16-518. 零钱兑换 II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17-377. 组合总和 Ⅳ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18-70. 爬楼梯.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19-322. 零钱兑换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20-279. 完全平方数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21%28%28难%29%29-139. 单词拆分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22-198. 打家劫舍.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23-213. 打家劫舍 II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24(不会：树)-337. 打家劫舍 III.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25-121. 买卖股票的最佳时机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26-122. 买卖股票的最佳时机 II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27-123. 买卖股票的最佳时机 III.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28-188. 买卖股票的最佳时机 IV.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29-309. 买卖股票的最佳时机含冷冻期.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30-714. 买卖股票的最佳时机含手续费.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31-300. 最长递增子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32-674. 最长连续递增序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33-718. 最长重复子数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34-1143. 最长公共子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35-1035. 不相交的线.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36-53. 最大子数组和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="37-392. 判断子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38%28难%29-115. 不同的子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39-583. 两个字符串的删除操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40-72. 编辑距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="41-647. 回文子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42-516. 最长回文子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#3-数字三角形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#4-长度不短于 m的回文子序列个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#5-n球，m盒子，可为空.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#6-n球，m盒子，不可为空.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#10000000000000000.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#a1-二分查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#b1-归并排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#b2-快速排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#zzzzzzz.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#b3-第K大数用快排做.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#b4-逆序对.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#7-回文子序列个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#b11-归并.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#b22-逆序对.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#b33-快速.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#b44-第k大数用快排.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="动态规划题解.md">
+      <Filter>源文件</Filter>
+    </None>
+  </ItemGroup>
+</Project>
